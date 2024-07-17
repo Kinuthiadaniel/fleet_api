@@ -12,6 +12,7 @@ sqlalchemy-serializer = "*"
 flask-bcrypt = "*"
 flask-jwt-extended = "*"
 numpy = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
